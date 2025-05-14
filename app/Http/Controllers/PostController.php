@@ -4,7 +4,8 @@ namespace App\Http\Controllers;
 
 use App\Models\Post;
 use Illuminate\Http\Request;
-
+// here is the controller for the post
+// it is used to handle the requests and responses for the posts
 class PostController extends Controller
 {
     /**
